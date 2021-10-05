@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/ssgq1yf)](https://github.com/NichManoel)
+<img align="right" alt="Coding" width="400" src="https://imgur.com/ssgq1yf">
 <div align="center">
   <a href="https://github.com/nichmanoel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nichmanoel&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
